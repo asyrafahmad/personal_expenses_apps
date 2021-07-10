@@ -1,0 +1,29 @@
+FLutter VERSION 1
+
+DartPad                                 // web-based playground
+
+----------------------------------------------------------------------
+
+ElevatedButton (RaisedButton)           = RaisedButton (unable deprecated in setting)
+TextButton (FlatButton)                 =
+
+
+
+Button
+1. RaisedButton
+2. FlatButton
+3. OutlineButton
+4. ElevatedButton
+5. IconButton
+----------------------------------------------------------------------
+Learning
+
+...                         = spread operator    
+final                       = runtime constant value
+const                       = complie time constant value
+
+----------------------------------------------------------------------
+Shortcut
+
+alt + shift + f             = to make clean code
+ctrl + shift + r            = refactoring
